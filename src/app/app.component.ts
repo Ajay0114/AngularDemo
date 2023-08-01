@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'this is my new angular project done by ajay';
+  title = 'This is my new Angular Project';
 }
+  
